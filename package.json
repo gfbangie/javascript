@@ -13,6 +13,7 @@
   "author": "bangie",
   "license": "MIT",
   "devDependencies": {
+    "coveralls": "^3.0.11",
     "jest": "^25.1.0"
   }
 }
