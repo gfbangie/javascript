@@ -1,4 +1,7 @@
 function sum(a,b){
+  if(a<b){
+    a=a;
+  }
   return a+b;
 }
 exports.sum=sum;
