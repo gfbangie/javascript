@@ -2,7 +2,7 @@
   "name": "testingtesttest",
   "version": "1.0.0",
   "description": "testing",
-  "main": "sketch.js",
+  "main": "index.js",
   "scripts": {
     "test": "jest"
   },
